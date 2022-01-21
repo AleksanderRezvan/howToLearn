@@ -17,3 +17,6 @@
 * __увелечение кроссбраузерности__
 * __оптимизация__ 
 * __адаптивность__
+
+
+https://aleksanderrezvan.github.io/howToLearn/
