@@ -1,0 +1,13 @@
+.khan__bay-link {
+    align-self: flex-start;
+
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #2f80ed;
+    transition: linear 0.5s;
+  }
+  .khan__bay-link:hover {
+    opacity: 0.7;
+  }
